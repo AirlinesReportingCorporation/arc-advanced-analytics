@@ -314,7 +314,7 @@ class App extends Component {
             <div className="ada-cabin-copy">
               The ARC Cabin Class Mapping (CCM) provides users with the{" "}
               <span className="white">most accurate</span> and up-to-date cabin
-              mapping based on carriers, routes and equipment types.
+              mapping based on carriers, routes and fare types.
               <br />
               <br />
               Instead of using legacy industry standards, ARC CCM uses{" "}
