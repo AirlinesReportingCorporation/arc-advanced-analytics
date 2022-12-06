@@ -52,6 +52,12 @@
     }
   }
 
+  .ctaBtn-green, .ctaBtn-green:hover, .ctaBtn-green:active, .ctaBtn-green:focus {
+    color: main.$tarmac !important;
+    background: main.$airfield;
+    border-color: main.$airfield;
+  }
+
   .ada-solutions-card {
     background: main.$tarmac;
     padding: 45px 30px;

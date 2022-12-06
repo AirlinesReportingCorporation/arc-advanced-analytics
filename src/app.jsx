@@ -190,6 +190,16 @@ class App extends Component {
                   </div>
                 </div>
               </div>
+              <div className="row">
+                <div className="col-lg-12">
+                  <div class="text-center" style={{paddingTop: "80px"}}>
+                    <div className="product-callout-copy" style={{margin: "0 auto"}}>Learn more about Air Total Market</div>
+                    <a href="https://www2.arccorp.com/globalassets/datasheets/arc-tam-datasheet.pdf" className="ctaBtn ctaBtn-green">
+                      Download Product Sheet
+                    </a>
+                  </div>
+                </div>
+              </div>
             </>
           }
         />
@@ -203,7 +213,11 @@ class App extends Component {
           }
           subtitle={
             <div className="ada-index-copy">
-              ARC Quality of Service Index (QSI) <span>predicts customer behavior</span> by quantifying the relative attractiveness of flight options by market <span className="white">(O&D City pair)</span> from published airline schedules. 
+              ARC Quality of Service Index (QSI){" "}
+              <span>predicts customer behavior</span> by quantifying the
+              relative attractiveness of flight options by market{" "}
+              <span className="white">(O&D City pair)</span> from published
+              airline schedules.
             </div>
           }
           body={
