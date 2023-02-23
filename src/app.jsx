@@ -33,11 +33,10 @@ class App extends Component {
           }
           width="100%"
           subtitle={
-            <>
-              Solving the most complex business challenges using{" "}
+            <> 
+              Solve the most complex business challenges using{" "}
               <span>
-                ARC's machine learning techniques and technology provides
-                innovative analytical travel-related data.
+              ARC’s machine-learning techniques and technology.
               </span>
             </>
           }
@@ -53,7 +52,7 @@ class App extends Component {
               Business Decisions{" "}
             </>
           }
-          subtitle="ARC's advanced analytic capabilities combine AI with years of industry experience to create groundbreaking travel data. Leveraging Amazon's SageMaker technology, ARC provides next-generation solutions for airline Cabin Class Mapping, Total Air Market estimates, Quality Service Index and Trip Classification."
+          subtitle="ARC's advanced analytic capabilities combine AI with years of industry experience to enable groundbreaking travel insights. Leveraging Amazon's SageMaker technology, ARC provides next-generation solutions for airline Cabin Class Mapping, Total Air Market estimates, Quality Service Index and Trip Classification."
         />
         <ProductText
           id="solutions"
@@ -332,7 +331,7 @@ class App extends Component {
               <br />
               <br />
               Instead of using legacy industry standards, ARC CCM uses{" "}
-              <span>machine learning</span> processes to identify CCM for
+              <span>machine-learning</span> processes to identify CCM for
               carriers. Each segment RBKD is grouped into a cluster and mapped
               to a Cabin Class.
             </div>
@@ -369,7 +368,7 @@ class App extends Component {
             <div className="ada-cabin-copy">
               Insight into passenger behavior and their intent is valuable to
               our customers. ARC’s Trip Classification Indicator models are
-              built using machine learning algorithms and key ticket attributes
+              built using machine-learning algorithms and key ticket attributes
               to indicate whether a trip is for <span>business or leisure</span>
               .
               <br />
