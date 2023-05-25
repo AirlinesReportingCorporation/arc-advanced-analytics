@@ -357,6 +357,7 @@ class App extends Component {
           }
         />
         <ProductText
+          id="tci"
           className="ada-trip"
           backgroundImage="https://www2.arccorp.com/globalassets/products--participation/advanced-data-analytics/ada-trip-bg.png"
           title={
