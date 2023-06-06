@@ -367,17 +367,11 @@ class App extends Component {
           }
           subtitle={
             <div className="ada-cabin-copy">
-              Insight into passenger behavior and their intent is valuable to
-              our customers. ARC’s Trip Classification Indicator models are
-              built using machine-learning algorithms and key ticket attributes
-              to indicate whether a trip is for <span>business or leisure</span>
+              Gain valuable insight into passenger behavior with ARC's Trip Classification Indicator (TCI) models. Powered by machine-learning algorithms and key ticket attributes, these models accurately determine whether a trip is for <span>business or leisure</span>
               .
               <br />
               <br />
-              Using <span className="white">Amazon SageMaker Services</span>,
-              algorithms will be continuously recalibrated to ensure that
-              ever-evolving passenger behavior is captured and incorporated into
-              the model.
+              Using <span className="white">Amazon SageMaker Services</span>, the latest calibration empowers airlines, aircraft manufacturers and travel organizations with unparalleled visibility to make informed business decisions and unlock new growth opportunities.
             </div>
           }
           body={
