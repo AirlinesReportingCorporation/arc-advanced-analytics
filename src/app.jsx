@@ -371,7 +371,7 @@ class App extends Component {
               .
               <br />
               <br />
-              Using <span className="white">Amazon SageMaker Services</span>, the latest calibration empowers airlines, aircraft manufacturers and travel organizations with unparalleled visibility to make informed business decisions and unlock new growth opportunities.
+              Using <span className="white">Amazon SageMaker Services</span>, the latest calibration empowers airlines and travel organizations with unparalleled visibility to make informed business decisions and unlock new growth opportunities.
             </div>
           }
           body={
